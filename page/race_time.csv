@@ -1,10 +1,673 @@
-date,race_nos,time,last_time
-20210519,1,18:45,"2021/05/18, 15:05:00"
-20210519,2,19:15,"2021/05/18, 15:05:00"
-20210519,3,19:45,"2021/05/18, 15:05:00"
-20210519,4,20:15,"2021/05/18, 15:05:00"
-20210519,5,20:45,"2021/05/18, 15:05:00"
-20210519,6,21:15,"2021/05/18, 15:05:00"
-20210519,7,21:45,"2021/05/18, 15:05:00"
-20210519,8,22:15,"2021/05/18, 15:05:00"
-20210519,9,22:50,"2021/05/18, 15:05:00"
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0"><meta content="5" http-equiv="refresh">2021/05/18, 15:05:02<A HREF="../index.html">Home    </A><A HREF="page/double_odd_table3.html">Prev Race 3</A><A HREF="page/double_odd_table5.html">Next Race 5</A><style  type="text/css" >
+#T_6ca58918_b7a7_11eb_a10e_acde48001122row0_col0,#T_6ca58918_b7a7_11eb_a10e_acde48001122row1_col0,#T_6ca58918_b7a7_11eb_a10e_acde48001122row2_col0,#T_6ca58918_b7a7_11eb_a10e_acde48001122row3_col0,#T_6ca58918_b7a7_11eb_a10e_acde48001122row4_col0,#T_6ca58918_b7a7_11eb_a10e_acde48001122row5_col0,#T_6ca58918_b7a7_11eb_a10e_acde48001122row6_col0,#T_6ca58918_b7a7_11eb_a10e_acde48001122row7_col0,#T_6ca58918_b7a7_11eb_a10e_acde48001122row8_col0,#T_6ca58918_b7a7_11eb_a10e_acde48001122row9_col0,#T_6ca58918_b7a7_11eb_a10e_acde48001122row10_col0,#T_6ca58918_b7a7_11eb_a10e_acde48001122row11_col0{
+            text-align:  center;
+            border-color:  black;
+            border-style:  solid;
+            border-width:  1px;
+            border-collapse:  collapse;
+        }</style><table id="T_6ca58918_b7a7_11eb_a10e_acde48001122" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >odd</th>    </tr>    <tr>        <th class="index_name level1" >race</th>        <th class="col_heading level1 col0" >4</th>    </tr>    <tr>        <th class="index_name level2" >current_race_horse</th>        <th class="col_heading level2 col0" >1</th>    </tr>    <tr>        <th class="index_name level3" >timestamp</th>        <th class="col_heading level3 col0" >2021/05/18, 15:05:02</th>    </tr>    <tr>        <th class="index_name level0" >next_race_horse</th>        <th class="blank" ></th>    </tr></thead><tbody>
+                <tr>
+                        <th id="T_6ca58918_b7a7_11eb_a10e_acde48001122level0_row0" class="row_heading level0 row0" >1</th>
+                        <td id="T_6ca58918_b7a7_11eb_a10e_acde48001122row0_col0" class="data row0 col0" >71.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ca58918_b7a7_11eb_a10e_acde48001122level0_row1" class="row_heading level0 row1" >2</th>
+                        <td id="T_6ca58918_b7a7_11eb_a10e_acde48001122row1_col0" class="data row1 col0" >272.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ca58918_b7a7_11eb_a10e_acde48001122level0_row2" class="row_heading level0 row2" >3</th>
+                        <td id="T_6ca58918_b7a7_11eb_a10e_acde48001122row2_col0" class="data row2 col0" >148.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ca58918_b7a7_11eb_a10e_acde48001122level0_row3" class="row_heading level0 row3" >4</th>
+                        <td id="T_6ca58918_b7a7_11eb_a10e_acde48001122row3_col0" class="data row3 col0" >272.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ca58918_b7a7_11eb_a10e_acde48001122level0_row4" class="row_heading level0 row4" >5</th>
+                        <td id="T_6ca58918_b7a7_11eb_a10e_acde48001122row4_col0" class="data row4 col0" >102.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ca58918_b7a7_11eb_a10e_acde48001122level0_row5" class="row_heading level0 row5" >6</th>
+                        <td id="T_6ca58918_b7a7_11eb_a10e_acde48001122row5_col0" class="data row5 col0" >125.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ca58918_b7a7_11eb_a10e_acde48001122level0_row6" class="row_heading level0 row6" >7</th>
+                        <td id="T_6ca58918_b7a7_11eb_a10e_acde48001122row6_col0" class="data row6 col0" >90.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ca58918_b7a7_11eb_a10e_acde48001122level0_row7" class="row_heading level0 row7" >8</th>
+                        <td id="T_6ca58918_b7a7_11eb_a10e_acde48001122row7_col0" class="data row7 col0" >272.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ca58918_b7a7_11eb_a10e_acde48001122level0_row8" class="row_heading level0 row8" >9</th>
+                        <td id="T_6ca58918_b7a7_11eb_a10e_acde48001122row8_col0" class="data row8 col0" >545.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ca58918_b7a7_11eb_a10e_acde48001122level0_row9" class="row_heading level0 row9" >10</th>
+                        <td id="T_6ca58918_b7a7_11eb_a10e_acde48001122row9_col0" class="data row9 col0" >181.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ca58918_b7a7_11eb_a10e_acde48001122level0_row10" class="row_heading level0 row10" >11</th>
+                        <td id="T_6ca58918_b7a7_11eb_a10e_acde48001122row10_col0" class="data row10 col0" >999.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ca58918_b7a7_11eb_a10e_acde48001122level0_row11" class="row_heading level0 row11" >12</th>
+                        <td id="T_6ca58918_b7a7_11eb_a10e_acde48001122row11_col0" class="data row11 col0" >545.0</td>
+            </tr>
+    </tbody></table><style  type="text/css" >
+#T_6caa3d64_b7a7_11eb_a10e_acde48001122row0_col0,#T_6caa3d64_b7a7_11eb_a10e_acde48001122row1_col0,#T_6caa3d64_b7a7_11eb_a10e_acde48001122row2_col0,#T_6caa3d64_b7a7_11eb_a10e_acde48001122row3_col0,#T_6caa3d64_b7a7_11eb_a10e_acde48001122row4_col0,#T_6caa3d64_b7a7_11eb_a10e_acde48001122row5_col0,#T_6caa3d64_b7a7_11eb_a10e_acde48001122row6_col0,#T_6caa3d64_b7a7_11eb_a10e_acde48001122row7_col0,#T_6caa3d64_b7a7_11eb_a10e_acde48001122row8_col0,#T_6caa3d64_b7a7_11eb_a10e_acde48001122row9_col0,#T_6caa3d64_b7a7_11eb_a10e_acde48001122row10_col0,#T_6caa3d64_b7a7_11eb_a10e_acde48001122row11_col0{
+            text-align:  center;
+            border-color:  black;
+            border-style:  solid;
+            border-width:  1px;
+            border-collapse:  collapse;
+        }</style><table id="T_6caa3d64_b7a7_11eb_a10e_acde48001122" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >odd</th>    </tr>    <tr>        <th class="index_name level1" >race</th>        <th class="col_heading level1 col0" >4</th>    </tr>    <tr>        <th class="index_name level2" >current_race_horse</th>        <th class="col_heading level2 col0" >2</th>    </tr>    <tr>        <th class="index_name level3" >timestamp</th>        <th class="col_heading level3 col0" >2021/05/18, 15:05:02</th>    </tr>    <tr>        <th class="index_name level0" >next_race_horse</th>        <th class="blank" ></th>    </tr></thead><tbody>
+                <tr>
+                        <th id="T_6caa3d64_b7a7_11eb_a10e_acde48001122level0_row0" class="row_heading level0 row0" >1</th>
+                        <td id="T_6caa3d64_b7a7_11eb_a10e_acde48001122row0_col0" class="data row0 col0" >65.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6caa3d64_b7a7_11eb_a10e_acde48001122level0_row1" class="row_heading level0 row1" >2</th>
+                        <td id="T_6caa3d64_b7a7_11eb_a10e_acde48001122row1_col0" class="data row1 col0" >28.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6caa3d64_b7a7_11eb_a10e_acde48001122level0_row2" class="row_heading level0 row2" >3</th>
+                        <td id="T_6caa3d64_b7a7_11eb_a10e_acde48001122row2_col0" class="data row2 col0" >81.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6caa3d64_b7a7_11eb_a10e_acde48001122level0_row3" class="row_heading level0 row3" >4</th>
+                        <td id="T_6caa3d64_b7a7_11eb_a10e_acde48001122row3_col0" class="data row3 col0" >181.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6caa3d64_b7a7_11eb_a10e_acde48001122level0_row4" class="row_heading level0 row4" >5</th>
+                        <td id="T_6caa3d64_b7a7_11eb_a10e_acde48001122row4_col0" class="data row4 col0" >86.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6caa3d64_b7a7_11eb_a10e_acde48001122level0_row5" class="row_heading level0 row5" >6</th>
+                        <td id="T_6caa3d64_b7a7_11eb_a10e_acde48001122row5_col0" class="data row5 col0" >109.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6caa3d64_b7a7_11eb_a10e_acde48001122level0_row6" class="row_heading level0 row6" >7</th>
+                        <td id="T_6caa3d64_b7a7_11eb_a10e_acde48001122row6_col0" class="data row6 col0" >32.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6caa3d64_b7a7_11eb_a10e_acde48001122level0_row7" class="row_heading level0 row7" >8</th>
+                        <td id="T_6caa3d64_b7a7_11eb_a10e_acde48001122row7_col0" class="data row7 col0" >233.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6caa3d64_b7a7_11eb_a10e_acde48001122level0_row8" class="row_heading level0 row8" >9</th>
+                        <td id="T_6caa3d64_b7a7_11eb_a10e_acde48001122row8_col0" class="data row8 col0" >818.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6caa3d64_b7a7_11eb_a10e_acde48001122level0_row9" class="row_heading level0 row9" >10</th>
+                        <td id="T_6caa3d64_b7a7_11eb_a10e_acde48001122row9_col0" class="data row9 col0" >233.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6caa3d64_b7a7_11eb_a10e_acde48001122level0_row10" class="row_heading level0 row10" >11</th>
+                        <td id="T_6caa3d64_b7a7_11eb_a10e_acde48001122row10_col0" class="data row10 col0" >999.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6caa3d64_b7a7_11eb_a10e_acde48001122level0_row11" class="row_heading level0 row11" >12</th>
+                        <td id="T_6caa3d64_b7a7_11eb_a10e_acde48001122row11_col0" class="data row11 col0" >204.0</td>
+            </tr>
+    </tbody></table><style  type="text/css" >
+#T_6caeb5ec_b7a7_11eb_a10e_acde48001122row0_col0,#T_6caeb5ec_b7a7_11eb_a10e_acde48001122row1_col0,#T_6caeb5ec_b7a7_11eb_a10e_acde48001122row2_col0,#T_6caeb5ec_b7a7_11eb_a10e_acde48001122row3_col0,#T_6caeb5ec_b7a7_11eb_a10e_acde48001122row4_col0,#T_6caeb5ec_b7a7_11eb_a10e_acde48001122row5_col0,#T_6caeb5ec_b7a7_11eb_a10e_acde48001122row6_col0,#T_6caeb5ec_b7a7_11eb_a10e_acde48001122row7_col0,#T_6caeb5ec_b7a7_11eb_a10e_acde48001122row8_col0,#T_6caeb5ec_b7a7_11eb_a10e_acde48001122row9_col0,#T_6caeb5ec_b7a7_11eb_a10e_acde48001122row10_col0,#T_6caeb5ec_b7a7_11eb_a10e_acde48001122row11_col0{
+            text-align:  center;
+            border-color:  black;
+            border-style:  solid;
+            border-width:  1px;
+            border-collapse:  collapse;
+        }</style><table id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >odd</th>    </tr>    <tr>        <th class="index_name level1" >race</th>        <th class="col_heading level1 col0" >4</th>    </tr>    <tr>        <th class="index_name level2" >current_race_horse</th>        <th class="col_heading level2 col0" >3</th>    </tr>    <tr>        <th class="index_name level3" >timestamp</th>        <th class="col_heading level3 col0" >2021/05/18, 15:05:02</th>    </tr>    <tr>        <th class="index_name level0" >next_race_horse</th>        <th class="blank" ></th>    </tr></thead><tbody>
+                <tr>
+                        <th id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122level0_row0" class="row_heading level0 row0" >1</th>
+                        <td id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122row0_col0" class="data row0 col0" >86.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122level0_row1" class="row_heading level0 row1" >2</th>
+                        <td id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122row1_col0" class="data row1 col0" >204.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122level0_row2" class="row_heading level0 row2" >3</th>
+                        <td id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122row2_col0" class="data row2 col0" >74.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122level0_row3" class="row_heading level0 row3" >4</th>
+                        <td id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122row3_col0" class="data row3 col0" >204.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122level0_row4" class="row_heading level0 row4" >5</th>
+                        <td id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122row4_col0" class="data row4 col0" >163.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122level0_row5" class="row_heading level0 row5" >6</th>
+                        <td id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122row5_col0" class="data row5 col0" >136.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122level0_row6" class="row_heading level0 row6" >7</th>
+                        <td id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122row6_col0" class="data row6 col0" >44.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122level0_row7" class="row_heading level0 row7" >8</th>
+                        <td id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122row7_col0" class="data row7 col0" >233.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122level0_row8" class="row_heading level0 row8" >9</th>
+                        <td id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122row8_col0" class="data row8 col0" >409.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122level0_row9" class="row_heading level0 row9" >10</th>
+                        <td id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122row9_col0" class="data row9 col0" >181.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122level0_row10" class="row_heading level0 row10" >11</th>
+                        <td id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122row10_col0" class="data row10 col0" >999.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122level0_row11" class="row_heading level0 row11" >12</th>
+                        <td id="T_6caeb5ec_b7a7_11eb_a10e_acde48001122row11_col0" class="data row11 col0" >272.0</td>
+            </tr>
+    </tbody></table><style  type="text/css" >
+#T_6cb34d14_b7a7_11eb_a10e_acde48001122row0_col0,#T_6cb34d14_b7a7_11eb_a10e_acde48001122row1_col0,#T_6cb34d14_b7a7_11eb_a10e_acde48001122row2_col0,#T_6cb34d14_b7a7_11eb_a10e_acde48001122row3_col0,#T_6cb34d14_b7a7_11eb_a10e_acde48001122row4_col0,#T_6cb34d14_b7a7_11eb_a10e_acde48001122row5_col0,#T_6cb34d14_b7a7_11eb_a10e_acde48001122row6_col0,#T_6cb34d14_b7a7_11eb_a10e_acde48001122row7_col0,#T_6cb34d14_b7a7_11eb_a10e_acde48001122row8_col0,#T_6cb34d14_b7a7_11eb_a10e_acde48001122row9_col0,#T_6cb34d14_b7a7_11eb_a10e_acde48001122row10_col0,#T_6cb34d14_b7a7_11eb_a10e_acde48001122row11_col0{
+            text-align:  center;
+            border-color:  black;
+            border-style:  solid;
+            border-width:  1px;
+            border-collapse:  collapse;
+        }</style><table id="T_6cb34d14_b7a7_11eb_a10e_acde48001122" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >odd</th>    </tr>    <tr>        <th class="index_name level1" >race</th>        <th class="col_heading level1 col0" >4</th>    </tr>    <tr>        <th class="index_name level2" >current_race_horse</th>        <th class="col_heading level2 col0" >4</th>    </tr>    <tr>        <th class="index_name level3" >timestamp</th>        <th class="col_heading level3 col0" >2021/05/18, 15:05:02</th>    </tr>    <tr>        <th class="index_name level0" >next_race_horse</th>        <th class="blank" ></th>    </tr></thead><tbody>
+                <tr>
+                        <th id="T_6cb34d14_b7a7_11eb_a10e_acde48001122level0_row0" class="row_heading level0 row0" >1</th>
+                        <td id="T_6cb34d14_b7a7_11eb_a10e_acde48001122row0_col0" class="data row0 col0" >181.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cb34d14_b7a7_11eb_a10e_acde48001122level0_row1" class="row_heading level0 row1" >2</th>
+                        <td id="T_6cb34d14_b7a7_11eb_a10e_acde48001122row1_col0" class="data row1 col0" >545.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cb34d14_b7a7_11eb_a10e_acde48001122level0_row2" class="row_heading level0 row2" >3</th>
+                        <td id="T_6cb34d14_b7a7_11eb_a10e_acde48001122row2_col0" class="data row2 col0" >116.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cb34d14_b7a7_11eb_a10e_acde48001122level0_row3" class="row_heading level0 row3" >4</th>
+                        <td id="T_6cb34d14_b7a7_11eb_a10e_acde48001122row3_col0" class="data row3 col0" >181.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cb34d14_b7a7_11eb_a10e_acde48001122level0_row4" class="row_heading level0 row4" >5</th>
+                        <td id="T_6cb34d14_b7a7_11eb_a10e_acde48001122row4_col0" class="data row4 col0" >125.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cb34d14_b7a7_11eb_a10e_acde48001122level0_row5" class="row_heading level0 row5" >6</th>
+                        <td id="T_6cb34d14_b7a7_11eb_a10e_acde48001122row5_col0" class="data row5 col0" >545.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cb34d14_b7a7_11eb_a10e_acde48001122level0_row6" class="row_heading level0 row6" >7</th>
+                        <td id="T_6cb34d14_b7a7_11eb_a10e_acde48001122row6_col0" class="data row6 col0" >86.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cb34d14_b7a7_11eb_a10e_acde48001122level0_row7" class="row_heading level0 row7" >8</th>
+                        <td id="T_6cb34d14_b7a7_11eb_a10e_acde48001122row7_col0" class="data row7 col0" >163.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cb34d14_b7a7_11eb_a10e_acde48001122level0_row8" class="row_heading level0 row8" >9</th>
+                        <td id="T_6cb34d14_b7a7_11eb_a10e_acde48001122row8_col0" class="data row8 col0" >327.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cb34d14_b7a7_11eb_a10e_acde48001122level0_row9" class="row_heading level0 row9" >10</th>
+                        <td id="T_6cb34d14_b7a7_11eb_a10e_acde48001122row9_col0" class="data row9 col0" >327.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cb34d14_b7a7_11eb_a10e_acde48001122level0_row10" class="row_heading level0 row10" >11</th>
+                        <td id="T_6cb34d14_b7a7_11eb_a10e_acde48001122row10_col0" class="data row10 col0" >999.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cb34d14_b7a7_11eb_a10e_acde48001122level0_row11" class="row_heading level0 row11" >12</th>
+                        <td id="T_6cb34d14_b7a7_11eb_a10e_acde48001122row11_col0" class="data row11 col0" >818.0</td>
+            </tr>
+    </tbody></table><style  type="text/css" >
+#T_6cb805ca_b7a7_11eb_a10e_acde48001122row0_col0,#T_6cb805ca_b7a7_11eb_a10e_acde48001122row1_col0,#T_6cb805ca_b7a7_11eb_a10e_acde48001122row2_col0,#T_6cb805ca_b7a7_11eb_a10e_acde48001122row3_col0,#T_6cb805ca_b7a7_11eb_a10e_acde48001122row4_col0,#T_6cb805ca_b7a7_11eb_a10e_acde48001122row5_col0,#T_6cb805ca_b7a7_11eb_a10e_acde48001122row6_col0,#T_6cb805ca_b7a7_11eb_a10e_acde48001122row7_col0,#T_6cb805ca_b7a7_11eb_a10e_acde48001122row8_col0,#T_6cb805ca_b7a7_11eb_a10e_acde48001122row9_col0,#T_6cb805ca_b7a7_11eb_a10e_acde48001122row10_col0,#T_6cb805ca_b7a7_11eb_a10e_acde48001122row11_col0{
+            text-align:  center;
+            border-color:  black;
+            border-style:  solid;
+            border-width:  1px;
+            border-collapse:  collapse;
+        }</style><table id="T_6cb805ca_b7a7_11eb_a10e_acde48001122" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >odd</th>    </tr>    <tr>        <th class="index_name level1" >race</th>        <th class="col_heading level1 col0" >4</th>    </tr>    <tr>        <th class="index_name level2" >current_race_horse</th>        <th class="col_heading level2 col0" >5</th>    </tr>    <tr>        <th class="index_name level3" >timestamp</th>        <th class="col_heading level3 col0" >2021/05/18, 15:05:02</th>    </tr>    <tr>        <th class="index_name level0" >next_race_horse</th>        <th class="blank" ></th>    </tr></thead><tbody>
+                <tr>
+                        <th id="T_6cb805ca_b7a7_11eb_a10e_acde48001122level0_row0" class="row_heading level0 row0" >1</th>
+                        <td id="T_6cb805ca_b7a7_11eb_a10e_acde48001122row0_col0" class="data row0 col0" >63.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cb805ca_b7a7_11eb_a10e_acde48001122level0_row1" class="row_heading level0 row1" >2</th>
+                        <td id="T_6cb805ca_b7a7_11eb_a10e_acde48001122row1_col0" class="data row1 col0" >109.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cb805ca_b7a7_11eb_a10e_acde48001122level0_row2" class="row_heading level0 row2" >3</th>
+                        <td id="T_6cb805ca_b7a7_11eb_a10e_acde48001122row2_col0" class="data row2 col0" >29.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cb805ca_b7a7_11eb_a10e_acde48001122level0_row3" class="row_heading level0 row3" >4</th>
+                        <td id="T_6cb805ca_b7a7_11eb_a10e_acde48001122row3_col0" class="data row3 col0" >90.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cb805ca_b7a7_11eb_a10e_acde48001122level0_row4" class="row_heading level0 row4" >5</th>
+                        <td id="T_6cb805ca_b7a7_11eb_a10e_acde48001122row4_col0" class="data row4 col0" >17.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cb805ca_b7a7_11eb_a10e_acde48001122level0_row5" class="row_heading level0 row5" >6</th>
+                        <td id="T_6cb805ca_b7a7_11eb_a10e_acde48001122row5_col0" class="data row5 col0" >15.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cb805ca_b7a7_11eb_a10e_acde48001122level0_row6" class="row_heading level0 row6" >7</th>
+                        <td id="T_6cb805ca_b7a7_11eb_a10e_acde48001122row6_col0" class="data row6 col0" >7.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cb805ca_b7a7_11eb_a10e_acde48001122level0_row7" class="row_heading level0 row7" >8</th>
+                        <td id="T_6cb805ca_b7a7_11eb_a10e_acde48001122row7_col0" class="data row7 col0" >45.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cb805ca_b7a7_11eb_a10e_acde48001122level0_row8" class="row_heading level0 row8" >9</th>
+                        <td id="T_6cb805ca_b7a7_11eb_a10e_acde48001122row8_col0" class="data row8 col0" >233.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cb805ca_b7a7_11eb_a10e_acde48001122level0_row9" class="row_heading level0 row9" >10</th>
+                        <td id="T_6cb805ca_b7a7_11eb_a10e_acde48001122row9_col0" class="data row9 col0" >43.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cb805ca_b7a7_11eb_a10e_acde48001122level0_row10" class="row_heading level0 row10" >11</th>
+                        <td id="T_6cb805ca_b7a7_11eb_a10e_acde48001122row10_col0" class="data row10 col0" >204.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cb805ca_b7a7_11eb_a10e_acde48001122level0_row11" class="row_heading level0 row11" >12</th>
+                        <td id="T_6cb805ca_b7a7_11eb_a10e_acde48001122row11_col0" class="data row11 col0" >44.0</td>
+            </tr>
+    </tbody></table><style  type="text/css" >
+#T_6cbcb412_b7a7_11eb_a10e_acde48001122row0_col0,#T_6cbcb412_b7a7_11eb_a10e_acde48001122row1_col0,#T_6cbcb412_b7a7_11eb_a10e_acde48001122row2_col0,#T_6cbcb412_b7a7_11eb_a10e_acde48001122row3_col0,#T_6cbcb412_b7a7_11eb_a10e_acde48001122row4_col0,#T_6cbcb412_b7a7_11eb_a10e_acde48001122row5_col0,#T_6cbcb412_b7a7_11eb_a10e_acde48001122row6_col0,#T_6cbcb412_b7a7_11eb_a10e_acde48001122row7_col0,#T_6cbcb412_b7a7_11eb_a10e_acde48001122row8_col0,#T_6cbcb412_b7a7_11eb_a10e_acde48001122row9_col0,#T_6cbcb412_b7a7_11eb_a10e_acde48001122row10_col0,#T_6cbcb412_b7a7_11eb_a10e_acde48001122row11_col0{
+            text-align:  center;
+            border-color:  black;
+            border-style:  solid;
+            border-width:  1px;
+            border-collapse:  collapse;
+        }</style><table id="T_6cbcb412_b7a7_11eb_a10e_acde48001122" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >odd</th>    </tr>    <tr>        <th class="index_name level1" >race</th>        <th class="col_heading level1 col0" >4</th>    </tr>    <tr>        <th class="index_name level2" >current_race_horse</th>        <th class="col_heading level2 col0" >6</th>    </tr>    <tr>        <th class="index_name level3" >timestamp</th>        <th class="col_heading level3 col0" >2021/05/18, 15:05:02</th>    </tr>    <tr>        <th class="index_name level0" >next_race_horse</th>        <th class="blank" ></th>    </tr></thead><tbody>
+                <tr>
+                        <th id="T_6cbcb412_b7a7_11eb_a10e_acde48001122level0_row0" class="row_heading level0 row0" >1</th>
+                        <td id="T_6cbcb412_b7a7_11eb_a10e_acde48001122row0_col0" class="data row0 col0" >409.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cbcb412_b7a7_11eb_a10e_acde48001122level0_row1" class="row_heading level0 row1" >2</th>
+                        <td id="T_6cbcb412_b7a7_11eb_a10e_acde48001122row1_col0" class="data row1 col0" >545.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cbcb412_b7a7_11eb_a10e_acde48001122level0_row2" class="row_heading level0 row2" >3</th>
+                        <td id="T_6cbcb412_b7a7_11eb_a10e_acde48001122row2_col0" class="data row2 col0" >181.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cbcb412_b7a7_11eb_a10e_acde48001122level0_row3" class="row_heading level0 row3" >4</th>
+                        <td id="T_6cbcb412_b7a7_11eb_a10e_acde48001122row3_col0" class="data row3 col0" >163.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cbcb412_b7a7_11eb_a10e_acde48001122level0_row4" class="row_heading level0 row4" >5</th>
+                        <td id="T_6cbcb412_b7a7_11eb_a10e_acde48001122row4_col0" class="data row4 col0" >327.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cbcb412_b7a7_11eb_a10e_acde48001122level0_row5" class="row_heading level0 row5" >6</th>
+                        <td id="T_6cbcb412_b7a7_11eb_a10e_acde48001122row5_col0" class="data row5 col0" >181.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cbcb412_b7a7_11eb_a10e_acde48001122level0_row6" class="row_heading level0 row6" >7</th>
+                        <td id="T_6cbcb412_b7a7_11eb_a10e_acde48001122row6_col0" class="data row6 col0" >233.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cbcb412_b7a7_11eb_a10e_acde48001122level0_row7" class="row_heading level0 row7" >8</th>
+                        <td id="T_6cbcb412_b7a7_11eb_a10e_acde48001122row7_col0" class="data row7 col0" >545.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cbcb412_b7a7_11eb_a10e_acde48001122level0_row8" class="row_heading level0 row8" >9</th>
+                        <td id="T_6cbcb412_b7a7_11eb_a10e_acde48001122row8_col0" class="data row8 col0" >409.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cbcb412_b7a7_11eb_a10e_acde48001122level0_row9" class="row_heading level0 row9" >10</th>
+                        <td id="T_6cbcb412_b7a7_11eb_a10e_acde48001122row9_col0" class="data row9 col0" >818.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cbcb412_b7a7_11eb_a10e_acde48001122level0_row10" class="row_heading level0 row10" >11</th>
+                        <td id="T_6cbcb412_b7a7_11eb_a10e_acde48001122row10_col0" class="data row10 col0" >999.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cbcb412_b7a7_11eb_a10e_acde48001122level0_row11" class="row_heading level0 row11" >12</th>
+                        <td id="T_6cbcb412_b7a7_11eb_a10e_acde48001122row11_col0" class="data row11 col0" >327.0</td>
+            </tr>
+    </tbody></table><style  type="text/css" >
+#T_6cc0d330_b7a7_11eb_a10e_acde48001122row0_col0,#T_6cc0d330_b7a7_11eb_a10e_acde48001122row1_col0,#T_6cc0d330_b7a7_11eb_a10e_acde48001122row2_col0,#T_6cc0d330_b7a7_11eb_a10e_acde48001122row3_col0,#T_6cc0d330_b7a7_11eb_a10e_acde48001122row4_col0,#T_6cc0d330_b7a7_11eb_a10e_acde48001122row5_col0,#T_6cc0d330_b7a7_11eb_a10e_acde48001122row6_col0,#T_6cc0d330_b7a7_11eb_a10e_acde48001122row7_col0,#T_6cc0d330_b7a7_11eb_a10e_acde48001122row8_col0,#T_6cc0d330_b7a7_11eb_a10e_acde48001122row9_col0,#T_6cc0d330_b7a7_11eb_a10e_acde48001122row10_col0,#T_6cc0d330_b7a7_11eb_a10e_acde48001122row11_col0{
+            text-align:  center;
+            border-color:  black;
+            border-style:  solid;
+            border-width:  1px;
+            border-collapse:  collapse;
+        }</style><table id="T_6cc0d330_b7a7_11eb_a10e_acde48001122" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >odd</th>    </tr>    <tr>        <th class="index_name level1" >race</th>        <th class="col_heading level1 col0" >4</th>    </tr>    <tr>        <th class="index_name level2" >current_race_horse</th>        <th class="col_heading level2 col0" >7</th>    </tr>    <tr>        <th class="index_name level3" >timestamp</th>        <th class="col_heading level3 col0" >2021/05/18, 15:05:02</th>    </tr>    <tr>        <th class="index_name level0" >next_race_horse</th>        <th class="blank" ></th>    </tr></thead><tbody>
+                <tr>
+                        <th id="T_6cc0d330_b7a7_11eb_a10e_acde48001122level0_row0" class="row_heading level0 row0" >1</th>
+                        <td id="T_6cc0d330_b7a7_11eb_a10e_acde48001122row0_col0" class="data row0 col0" >148.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc0d330_b7a7_11eb_a10e_acde48001122level0_row1" class="row_heading level0 row1" >2</th>
+                        <td id="T_6cc0d330_b7a7_11eb_a10e_acde48001122row1_col0" class="data row1 col0" >27.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc0d330_b7a7_11eb_a10e_acde48001122level0_row2" class="row_heading level0 row2" >3</th>
+                        <td id="T_6cc0d330_b7a7_11eb_a10e_acde48001122row2_col0" class="data row2 col0" >81.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc0d330_b7a7_11eb_a10e_acde48001122level0_row3" class="row_heading level0 row3" >4</th>
+                        <td id="T_6cc0d330_b7a7_11eb_a10e_acde48001122row3_col0" class="data row3 col0" >90.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc0d330_b7a7_11eb_a10e_acde48001122level0_row4" class="row_heading level0 row4" >5</th>
+                        <td id="T_6cc0d330_b7a7_11eb_a10e_acde48001122row4_col0" class="data row4 col0" >34.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc0d330_b7a7_11eb_a10e_acde48001122level0_row5" class="row_heading level0 row5" >6</th>
+                        <td id="T_6cc0d330_b7a7_11eb_a10e_acde48001122row5_col0" class="data row5 col0" >68.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc0d330_b7a7_11eb_a10e_acde48001122level0_row6" class="row_heading level0 row6" >7</th>
+                        <td id="T_6cc0d330_b7a7_11eb_a10e_acde48001122row6_col0" class="data row6 col0" >12.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc0d330_b7a7_11eb_a10e_acde48001122level0_row7" class="row_heading level0 row7" >8</th>
+                        <td id="T_6cc0d330_b7a7_11eb_a10e_acde48001122row7_col0" class="data row7 col0" >148.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc0d330_b7a7_11eb_a10e_acde48001122level0_row8" class="row_heading level0 row8" >9</th>
+                        <td id="T_6cc0d330_b7a7_11eb_a10e_acde48001122row8_col0" class="data row8 col0" >163.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc0d330_b7a7_11eb_a10e_acde48001122level0_row9" class="row_heading level0 row9" >10</th>
+                        <td id="T_6cc0d330_b7a7_11eb_a10e_acde48001122row9_col0" class="data row9 col0" >233.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc0d330_b7a7_11eb_a10e_acde48001122level0_row10" class="row_heading level0 row10" >11</th>
+                        <td id="T_6cc0d330_b7a7_11eb_a10e_acde48001122row10_col0" class="data row10 col0" >999.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc0d330_b7a7_11eb_a10e_acde48001122level0_row11" class="row_heading level0 row11" >12</th>
+                        <td id="T_6cc0d330_b7a7_11eb_a10e_acde48001122row11_col0" class="data row11 col0" >116.0</td>
+            </tr>
+    </tbody></table><style  type="text/css" >
+#T_6cc4dae8_b7a7_11eb_a10e_acde48001122row0_col0,#T_6cc4dae8_b7a7_11eb_a10e_acde48001122row1_col0,#T_6cc4dae8_b7a7_11eb_a10e_acde48001122row2_col0,#T_6cc4dae8_b7a7_11eb_a10e_acde48001122row3_col0,#T_6cc4dae8_b7a7_11eb_a10e_acde48001122row4_col0,#T_6cc4dae8_b7a7_11eb_a10e_acde48001122row5_col0,#T_6cc4dae8_b7a7_11eb_a10e_acde48001122row6_col0,#T_6cc4dae8_b7a7_11eb_a10e_acde48001122row7_col0,#T_6cc4dae8_b7a7_11eb_a10e_acde48001122row8_col0,#T_6cc4dae8_b7a7_11eb_a10e_acde48001122row9_col0,#T_6cc4dae8_b7a7_11eb_a10e_acde48001122row10_col0,#T_6cc4dae8_b7a7_11eb_a10e_acde48001122row11_col0{
+            text-align:  center;
+            border-color:  black;
+            border-style:  solid;
+            border-width:  1px;
+            border-collapse:  collapse;
+        }</style><table id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >odd</th>    </tr>    <tr>        <th class="index_name level1" >race</th>        <th class="col_heading level1 col0" >4</th>    </tr>    <tr>        <th class="index_name level2" >current_race_horse</th>        <th class="col_heading level2 col0" >8</th>    </tr>    <tr>        <th class="index_name level3" >timestamp</th>        <th class="col_heading level3 col0" >2021/05/18, 15:05:02</th>    </tr>    <tr>        <th class="index_name level0" >next_race_horse</th>        <th class="blank" ></th>    </tr></thead><tbody>
+                <tr>
+                        <th id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122level0_row0" class="row_heading level0 row0" >1</th>
+                        <td id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122row0_col0" class="data row0 col0" >136.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122level0_row1" class="row_heading level0 row1" >2</th>
+                        <td id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122row1_col0" class="data row1 col0" >116.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122level0_row2" class="row_heading level0 row2" >3</th>
+                        <td id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122row2_col0" class="data row2 col0" >81.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122level0_row3" class="row_heading level0 row3" >4</th>
+                        <td id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122row3_col0" class="data row3 col0" >163.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122level0_row4" class="row_heading level0 row4" >5</th>
+                        <td id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122row4_col0" class="data row4 col0" >52.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122level0_row5" class="row_heading level0 row5" >6</th>
+                        <td id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122row5_col0" class="data row5 col0" >65.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122level0_row6" class="row_heading level0 row6" >7</th>
+                        <td id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122row6_col0" class="data row6 col0" >18.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122level0_row7" class="row_heading level0 row7" >8</th>
+                        <td id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122row7_col0" class="data row7 col0" >109.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122level0_row8" class="row_heading level0 row8" >9</th>
+                        <td id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122row8_col0" class="data row8 col0" >818.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122level0_row9" class="row_heading level0 row9" >10</th>
+                        <td id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122row9_col0" class="data row9 col0" >204.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122level0_row10" class="row_heading level0 row10" >11</th>
+                        <td id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122row10_col0" class="data row10 col0" >999.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122level0_row11" class="row_heading level0 row11" >12</th>
+                        <td id="T_6cc4dae8_b7a7_11eb_a10e_acde48001122row11_col0" class="data row11 col0" >96.0</td>
+            </tr>
+    </tbody></table><style  type="text/css" >
+#T_6cc89df4_b7a7_11eb_a10e_acde48001122row0_col0,#T_6cc89df4_b7a7_11eb_a10e_acde48001122row1_col0,#T_6cc89df4_b7a7_11eb_a10e_acde48001122row2_col0,#T_6cc89df4_b7a7_11eb_a10e_acde48001122row3_col0,#T_6cc89df4_b7a7_11eb_a10e_acde48001122row4_col0,#T_6cc89df4_b7a7_11eb_a10e_acde48001122row5_col0,#T_6cc89df4_b7a7_11eb_a10e_acde48001122row6_col0,#T_6cc89df4_b7a7_11eb_a10e_acde48001122row7_col0,#T_6cc89df4_b7a7_11eb_a10e_acde48001122row8_col0,#T_6cc89df4_b7a7_11eb_a10e_acde48001122row9_col0,#T_6cc89df4_b7a7_11eb_a10e_acde48001122row10_col0,#T_6cc89df4_b7a7_11eb_a10e_acde48001122row11_col0{
+            text-align:  center;
+            border-color:  black;
+            border-style:  solid;
+            border-width:  1px;
+            border-collapse:  collapse;
+        }</style><table id="T_6cc89df4_b7a7_11eb_a10e_acde48001122" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >odd</th>    </tr>    <tr>        <th class="index_name level1" >race</th>        <th class="col_heading level1 col0" >4</th>    </tr>    <tr>        <th class="index_name level2" >current_race_horse</th>        <th class="col_heading level2 col0" >9</th>    </tr>    <tr>        <th class="index_name level3" >timestamp</th>        <th class="col_heading level3 col0" >2021/05/18, 15:05:02</th>    </tr>    <tr>        <th class="index_name level0" >next_race_horse</th>        <th class="blank" ></th>    </tr></thead><tbody>
+                <tr>
+                        <th id="T_6cc89df4_b7a7_11eb_a10e_acde48001122level0_row0" class="row_heading level0 row0" >1</th>
+                        <td id="T_6cc89df4_b7a7_11eb_a10e_acde48001122row0_col0" class="data row0 col0" >116.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc89df4_b7a7_11eb_a10e_acde48001122level0_row1" class="row_heading level0 row1" >2</th>
+                        <td id="T_6cc89df4_b7a7_11eb_a10e_acde48001122row1_col0" class="data row1 col0" >327.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc89df4_b7a7_11eb_a10e_acde48001122level0_row2" class="row_heading level0 row2" >3</th>
+                        <td id="T_6cc89df4_b7a7_11eb_a10e_acde48001122row2_col0" class="data row2 col0" >48.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc89df4_b7a7_11eb_a10e_acde48001122level0_row3" class="row_heading level0 row3" >4</th>
+                        <td id="T_6cc89df4_b7a7_11eb_a10e_acde48001122row3_col0" class="data row3 col0" >102.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc89df4_b7a7_11eb_a10e_acde48001122level0_row4" class="row_heading level0 row4" >5</th>
+                        <td id="T_6cc89df4_b7a7_11eb_a10e_acde48001122row4_col0" class="data row4 col0" >86.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc89df4_b7a7_11eb_a10e_acde48001122level0_row5" class="row_heading level0 row5" >6</th>
+                        <td id="T_6cc89df4_b7a7_11eb_a10e_acde48001122row5_col0" class="data row5 col0" >77.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc89df4_b7a7_11eb_a10e_acde48001122level0_row6" class="row_heading level0 row6" >7</th>
+                        <td id="T_6cc89df4_b7a7_11eb_a10e_acde48001122row6_col0" class="data row6 col0" >35.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc89df4_b7a7_11eb_a10e_acde48001122level0_row7" class="row_heading level0 row7" >8</th>
+                        <td id="T_6cc89df4_b7a7_11eb_a10e_acde48001122row7_col0" class="data row7 col0" >148.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc89df4_b7a7_11eb_a10e_acde48001122level0_row8" class="row_heading level0 row8" >9</th>
+                        <td id="T_6cc89df4_b7a7_11eb_a10e_acde48001122row8_col0" class="data row8 col0" >204.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc89df4_b7a7_11eb_a10e_acde48001122level0_row9" class="row_heading level0 row9" >10</th>
+                        <td id="T_6cc89df4_b7a7_11eb_a10e_acde48001122row9_col0" class="data row9 col0" >181.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc89df4_b7a7_11eb_a10e_acde48001122level0_row10" class="row_heading level0 row10" >11</th>
+                        <td id="T_6cc89df4_b7a7_11eb_a10e_acde48001122row10_col0" class="data row10 col0" >818.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cc89df4_b7a7_11eb_a10e_acde48001122level0_row11" class="row_heading level0 row11" >12</th>
+                        <td id="T_6cc89df4_b7a7_11eb_a10e_acde48001122row11_col0" class="data row11 col0" >46.0</td>
+            </tr>
+    </tbody></table><style  type="text/css" >
+#T_6ccbd514_b7a7_11eb_a10e_acde48001122row0_col0,#T_6ccbd514_b7a7_11eb_a10e_acde48001122row1_col0,#T_6ccbd514_b7a7_11eb_a10e_acde48001122row2_col0,#T_6ccbd514_b7a7_11eb_a10e_acde48001122row3_col0,#T_6ccbd514_b7a7_11eb_a10e_acde48001122row4_col0,#T_6ccbd514_b7a7_11eb_a10e_acde48001122row5_col0,#T_6ccbd514_b7a7_11eb_a10e_acde48001122row6_col0,#T_6ccbd514_b7a7_11eb_a10e_acde48001122row7_col0,#T_6ccbd514_b7a7_11eb_a10e_acde48001122row8_col0,#T_6ccbd514_b7a7_11eb_a10e_acde48001122row9_col0,#T_6ccbd514_b7a7_11eb_a10e_acde48001122row10_col0,#T_6ccbd514_b7a7_11eb_a10e_acde48001122row11_col0{
+            text-align:  center;
+            border-color:  black;
+            border-style:  solid;
+            border-width:  1px;
+            border-collapse:  collapse;
+        }</style><table id="T_6ccbd514_b7a7_11eb_a10e_acde48001122" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >odd</th>    </tr>    <tr>        <th class="index_name level1" >race</th>        <th class="col_heading level1 col0" >4</th>    </tr>    <tr>        <th class="index_name level2" >current_race_horse</th>        <th class="col_heading level2 col0" >10</th>    </tr>    <tr>        <th class="index_name level3" >timestamp</th>        <th class="col_heading level3 col0" >2021/05/18, 15:05:02</th>    </tr>    <tr>        <th class="index_name level0" >next_race_horse</th>        <th class="blank" ></th>    </tr></thead><tbody>
+                <tr>
+                        <th id="T_6ccbd514_b7a7_11eb_a10e_acde48001122level0_row0" class="row_heading level0 row0" >1</th>
+                        <td id="T_6ccbd514_b7a7_11eb_a10e_acde48001122row0_col0" class="data row0 col0" >818.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ccbd514_b7a7_11eb_a10e_acde48001122level0_row1" class="row_heading level0 row1" >2</th>
+                        <td id="T_6ccbd514_b7a7_11eb_a10e_acde48001122row1_col0" class="data row1 col0" >818.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ccbd514_b7a7_11eb_a10e_acde48001122level0_row2" class="row_heading level0 row2" >3</th>
+                        <td id="T_6ccbd514_b7a7_11eb_a10e_acde48001122row2_col0" class="data row2 col0" >327.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ccbd514_b7a7_11eb_a10e_acde48001122level0_row3" class="row_heading level0 row3" >4</th>
+                        <td id="T_6ccbd514_b7a7_11eb_a10e_acde48001122row3_col0" class="data row3 col0" >204.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ccbd514_b7a7_11eb_a10e_acde48001122level0_row4" class="row_heading level0 row4" >5</th>
+                        <td id="T_6ccbd514_b7a7_11eb_a10e_acde48001122row4_col0" class="data row4 col0" >136.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ccbd514_b7a7_11eb_a10e_acde48001122level0_row5" class="row_heading level0 row5" >6</th>
+                        <td id="T_6ccbd514_b7a7_11eb_a10e_acde48001122row5_col0" class="data row5 col0" >233.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ccbd514_b7a7_11eb_a10e_acde48001122level0_row6" class="row_heading level0 row6" >7</th>
+                        <td id="T_6ccbd514_b7a7_11eb_a10e_acde48001122row6_col0" class="data row6 col0" >181.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ccbd514_b7a7_11eb_a10e_acde48001122level0_row7" class="row_heading level0 row7" >8</th>
+                        <td id="T_6ccbd514_b7a7_11eb_a10e_acde48001122row7_col0" class="data row7 col0" >409.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ccbd514_b7a7_11eb_a10e_acde48001122level0_row8" class="row_heading level0 row8" >9</th>
+                        <td id="T_6ccbd514_b7a7_11eb_a10e_acde48001122row8_col0" class="data row8 col0" >999.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ccbd514_b7a7_11eb_a10e_acde48001122level0_row9" class="row_heading level0 row9" >10</th>
+                        <td id="T_6ccbd514_b7a7_11eb_a10e_acde48001122row9_col0" class="data row9 col0" >233.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ccbd514_b7a7_11eb_a10e_acde48001122level0_row10" class="row_heading level0 row10" >11</th>
+                        <td id="T_6ccbd514_b7a7_11eb_a10e_acde48001122row10_col0" class="data row10 col0" >999.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ccbd514_b7a7_11eb_a10e_acde48001122level0_row11" class="row_heading level0 row11" >12</th>
+                        <td id="T_6ccbd514_b7a7_11eb_a10e_acde48001122row11_col0" class="data row11 col0" >999.0</td>
+            </tr>
+    </tbody></table><style  type="text/css" >
+#T_6ccf49a6_b7a7_11eb_a10e_acde48001122row0_col0,#T_6ccf49a6_b7a7_11eb_a10e_acde48001122row1_col0,#T_6ccf49a6_b7a7_11eb_a10e_acde48001122row2_col0,#T_6ccf49a6_b7a7_11eb_a10e_acde48001122row3_col0,#T_6ccf49a6_b7a7_11eb_a10e_acde48001122row4_col0,#T_6ccf49a6_b7a7_11eb_a10e_acde48001122row5_col0,#T_6ccf49a6_b7a7_11eb_a10e_acde48001122row6_col0,#T_6ccf49a6_b7a7_11eb_a10e_acde48001122row7_col0,#T_6ccf49a6_b7a7_11eb_a10e_acde48001122row8_col0,#T_6ccf49a6_b7a7_11eb_a10e_acde48001122row9_col0,#T_6ccf49a6_b7a7_11eb_a10e_acde48001122row10_col0,#T_6ccf49a6_b7a7_11eb_a10e_acde48001122row11_col0{
+            text-align:  center;
+            border-color:  black;
+            border-style:  solid;
+            border-width:  1px;
+            border-collapse:  collapse;
+        }</style><table id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >odd</th>    </tr>    <tr>        <th class="index_name level1" >race</th>        <th class="col_heading level1 col0" >4</th>    </tr>    <tr>        <th class="index_name level2" >current_race_horse</th>        <th class="col_heading level2 col0" >11</th>    </tr>    <tr>        <th class="index_name level3" >timestamp</th>        <th class="col_heading level3 col0" >2021/05/18, 15:05:02</th>    </tr>    <tr>        <th class="index_name level0" >next_race_horse</th>        <th class="blank" ></th>    </tr></thead><tbody>
+                <tr>
+                        <th id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122level0_row0" class="row_heading level0 row0" >1</th>
+                        <td id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122row0_col0" class="data row0 col0" >148.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122level0_row1" class="row_heading level0 row1" >2</th>
+                        <td id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122row1_col0" class="data row1 col0" >818.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122level0_row2" class="row_heading level0 row2" >3</th>
+                        <td id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122row2_col0" class="data row2 col0" >136.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122level0_row3" class="row_heading level0 row3" >4</th>
+                        <td id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122row3_col0" class="data row3 col0" >233.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122level0_row4" class="row_heading level0 row4" >5</th>
+                        <td id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122row4_col0" class="data row4 col0" >204.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122level0_row5" class="row_heading level0 row5" >6</th>
+                        <td id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122row5_col0" class="data row5 col0" >136.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122level0_row6" class="row_heading level0 row6" >7</th>
+                        <td id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122row6_col0" class="data row6 col0" >56.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122level0_row7" class="row_heading level0 row7" >8</th>
+                        <td id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122row7_col0" class="data row7 col0" >109.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122level0_row8" class="row_heading level0 row8" >9</th>
+                        <td id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122row8_col0" class="data row8 col0" >272.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122level0_row9" class="row_heading level0 row9" >10</th>
+                        <td id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122row9_col0" class="data row9 col0" >233.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122level0_row10" class="row_heading level0 row10" >11</th>
+                        <td id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122row10_col0" class="data row10 col0" >999.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122level0_row11" class="row_heading level0 row11" >12</th>
+                        <td id="T_6ccf49a6_b7a7_11eb_a10e_acde48001122row11_col0" class="data row11 col0" >181.0</td>
+            </tr>
+    </tbody></table><style  type="text/css" >
+#T_6cd326a2_b7a7_11eb_a10e_acde48001122row0_col0,#T_6cd326a2_b7a7_11eb_a10e_acde48001122row1_col0,#T_6cd326a2_b7a7_11eb_a10e_acde48001122row2_col0,#T_6cd326a2_b7a7_11eb_a10e_acde48001122row3_col0,#T_6cd326a2_b7a7_11eb_a10e_acde48001122row4_col0,#T_6cd326a2_b7a7_11eb_a10e_acde48001122row5_col0,#T_6cd326a2_b7a7_11eb_a10e_acde48001122row6_col0,#T_6cd326a2_b7a7_11eb_a10e_acde48001122row7_col0,#T_6cd326a2_b7a7_11eb_a10e_acde48001122row8_col0,#T_6cd326a2_b7a7_11eb_a10e_acde48001122row9_col0,#T_6cd326a2_b7a7_11eb_a10e_acde48001122row10_col0,#T_6cd326a2_b7a7_11eb_a10e_acde48001122row11_col0{
+            text-align:  center;
+            border-color:  black;
+            border-style:  solid;
+            border-width:  1px;
+            border-collapse:  collapse;
+        }</style><table id="T_6cd326a2_b7a7_11eb_a10e_acde48001122" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >odd</th>    </tr>    <tr>        <th class="index_name level1" >race</th>        <th class="col_heading level1 col0" >4</th>    </tr>    <tr>        <th class="index_name level2" >current_race_horse</th>        <th class="col_heading level2 col0" >12</th>    </tr>    <tr>        <th class="index_name level3" >timestamp</th>        <th class="col_heading level3 col0" >2021/05/18, 15:05:02</th>    </tr>    <tr>        <th class="index_name level0" >next_race_horse</th>        <th class="blank" ></th>    </tr></thead><tbody>
+                <tr>
+                        <th id="T_6cd326a2_b7a7_11eb_a10e_acde48001122level0_row0" class="row_heading level0 row0" >1</th>
+                        <td id="T_6cd326a2_b7a7_11eb_a10e_acde48001122row0_col0" class="data row0 col0" >545.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cd326a2_b7a7_11eb_a10e_acde48001122level0_row1" class="row_heading level0 row1" >2</th>
+                        <td id="T_6cd326a2_b7a7_11eb_a10e_acde48001122row1_col0" class="data row1 col0" >999.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cd326a2_b7a7_11eb_a10e_acde48001122level0_row2" class="row_heading level0 row2" >3</th>
+                        <td id="T_6cd326a2_b7a7_11eb_a10e_acde48001122row2_col0" class="data row2 col0" >818.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cd326a2_b7a7_11eb_a10e_acde48001122level0_row3" class="row_heading level0 row3" >4</th>
+                        <td id="T_6cd326a2_b7a7_11eb_a10e_acde48001122row3_col0" class="data row3 col0" >545.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cd326a2_b7a7_11eb_a10e_acde48001122level0_row4" class="row_heading level0 row4" >5</th>
+                        <td id="T_6cd326a2_b7a7_11eb_a10e_acde48001122row4_col0" class="data row4 col0" >999.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cd326a2_b7a7_11eb_a10e_acde48001122level0_row5" class="row_heading level0 row5" >6</th>
+                        <td id="T_6cd326a2_b7a7_11eb_a10e_acde48001122row5_col0" class="data row5 col0" >818.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cd326a2_b7a7_11eb_a10e_acde48001122level0_row6" class="row_heading level0 row6" >7</th>
+                        <td id="T_6cd326a2_b7a7_11eb_a10e_acde48001122row6_col0" class="data row6 col0" >204.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cd326a2_b7a7_11eb_a10e_acde48001122level0_row7" class="row_heading level0 row7" >8</th>
+                        <td id="T_6cd326a2_b7a7_11eb_a10e_acde48001122row7_col0" class="data row7 col0" >818.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cd326a2_b7a7_11eb_a10e_acde48001122level0_row8" class="row_heading level0 row8" >9</th>
+                        <td id="T_6cd326a2_b7a7_11eb_a10e_acde48001122row8_col0" class="data row8 col0" >999.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cd326a2_b7a7_11eb_a10e_acde48001122level0_row9" class="row_heading level0 row9" >10</th>
+                        <td id="T_6cd326a2_b7a7_11eb_a10e_acde48001122row9_col0" class="data row9 col0" >409.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cd326a2_b7a7_11eb_a10e_acde48001122level0_row10" class="row_heading level0 row10" >11</th>
+                        <td id="T_6cd326a2_b7a7_11eb_a10e_acde48001122row10_col0" class="data row10 col0" >999.0</td>
+            </tr>
+            <tr>
+                        <th id="T_6cd326a2_b7a7_11eb_a10e_acde48001122level0_row11" class="row_heading level0 row11" >12</th>
+                        <td id="T_6cd326a2_b7a7_11eb_a10e_acde48001122row11_col0" class="data row11 col0" >818.0</td>
+            </tr>
+    </tbody></table>
