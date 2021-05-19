@@ -10,11 +10,7 @@ from github import Github
 #from github import InputGitTreeElement
 import base64
 import os, sys
-#omakase88
-#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
-#horsepie88
-#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
-# g = Github("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")
+# g = Github("tokenH")
 # repo = g.get_user().get_repo("piemodel88.github.io")
 # all_files = []
 # contents = repo.get_contents("")
