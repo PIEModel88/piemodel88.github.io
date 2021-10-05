@@ -11,10 +11,10 @@
   var chat_auth = 'c99ba18f8f6f97132b7b7dcb2de69ae0';
   var chat_position = 'right';
 
-  (function() {
-    var css = document.createElement('link'); css.rel = 'stylesheet'; css.type = 'text/css'; css.href = 'https://fast.cometondemand.net/'+chat_appid+'x_xchat.css';
-    document.getElementsByTagName("head")[0].appendChild(css);
-    var js = document.createElement('script'); js.type = 'text/javascript'; js.src = 'https://fast.cometondemand.net/'+chat_appid+'x_xchat.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(js, s);
+(function() {
+    var chat_css = document.createElement('link'); chat_css.rel = 'stylesheet'; chat_css.type = 'text/css'; chat_css.href = 'https://fast.cometondemand.net/'+chat_appid+'x_xchat.css';
+    document.getElementsByTagName("head")[0].appendChild(chat_css);
+    var chat_js = document.createElement('script'); chat_js.type = 'text/javascript'; chat_js.src = 'https://fast.cometondemand.net/'+chat_appid+'x_xchat.js'; var chat_script = document.getElementsByTagName('script')[0]; chat_script.parentNode.insertBefore(chat_js, chat_script);
   })();
 </script>
 </body>
